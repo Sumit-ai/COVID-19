@@ -7,3 +7,5 @@ COVID-19 EDA
 <img align="center" src="12.png"  width="550" /> 
 <img align="center" src="13.png"  width="550" /> 
 <img align="center" src="tyu.png"  width="550" /> 
+<img align="center" src="ip.png"  width="550" /> 
+<img align="center" src="vi.png"  width="550" /> 
