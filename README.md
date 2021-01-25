@@ -18,6 +18,6 @@ Please find the Jupyter notebook here [**HERE**](https://nbviewer.jupyter.org/gi
 
 ## Output results: 
 
-<img align="center" src="12.png"  width="400" /> 
-<img align="center" src="13.png"  width="450" /> 
-<img align="center" src="ip.png"  width="450" /> 
+<img align="center" src="12.png"  width="700" /> 
+<img align="center" src="13.png"  width="750" /> 
+<img align="center" src="ip.png"  width="750" /> 
